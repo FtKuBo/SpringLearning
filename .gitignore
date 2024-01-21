@@ -1,0 +1,15 @@
+*
+
+!.gitignore
+
+!.mvnw
+!.mvnw.cmd
+!.pom.xml
+!README.md
+
+!src/
+!src/**
+
+!.mvn/
+!.mvn/**
+
