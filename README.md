@@ -1,1 +1,1 @@
-Spring project : basic user authentificator using spring
+Spring project : basic user authentificator
