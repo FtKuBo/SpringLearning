@@ -1,6 +1,6 @@
 # Spring project : basic user authentificator
 
-# Run project:
+Run project:
 ```shell
 mvnw.cmd package
 cd target
