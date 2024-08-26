@@ -1,0 +1,12 @@
+*
+
+!.gitignore
+!mvnw
+!mvnw.cmd
+!pom.xml
+
+!src/
+!src/**
+
+!.mvn/
+!.mvn/**
