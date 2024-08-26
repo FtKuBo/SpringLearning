@@ -1,13 +1,13 @@
-package org.mehdi.userLoginSystem;
+package org.mehdi.userProfileApi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UserLoginSystemApplication {
+public class UserProfileApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UserLoginSystemApplication.class, args);
+		SpringApplication.run(UserProfileApplication.class, args);
 	}
 
 }
